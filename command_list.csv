@@ -1,0 +1,134 @@
+    1  help ls
+    2  man
+    3  help dir
+    4  q
+    5  ls
+    6  clear
+    7  cd
+    8  cd desktop
+    9  cd :
+   10  cd :
+   11  ls
+   12  clean
+   13  help dir
+   14  clean
+   15  cd ls
+   16  clear
+   17  mkdir lesson
+   18  ls
+   19  touch
+   20  ping googl.com
+   21  ate
+   22  date
+   23  df-h
+   24  clear
+   25  git config--global user.name"Lushpynska Halyna"
+   26  git --help
+   27  clear
+   28  git config "Halyna Lushpynska"
+   29  clear
+   30  git config--global user.name"Halyna Lushpynska"
+   31  git --help
+   32  clear
+   33  [200~git configclear
+   34  clear
+   35  git config"Lushpynska Halyna"
+   36  clear
+   37  git config --global user.name "Halyna Lushpynska"
+   38  git config --global user.email lushpynskagalyna@gmail.con
+   39  git clone[200~https://github.com/lushpynskagalyna-bot/HW_10.git~
+   40  clear
+   41  git config --global user.name "Halyna Lushpynska"
+   42  [200~
+   43  clear
+   44  git config --global user.name "Halyna Lushpynska"
+   45  git cofig --user.email lushpynskagalyna@gmail.com
+   46  clear
+   47  git config --global user.name "Halyna Lushpynska"
+   48  git config --global user.email lushpynsksgalyna@gmail.com
+   49  git clone https://github.com/lushpynskagalyna-bot/HW_10.git
+   50  touch text_ignore.txt
+   51  echo “text_ignore.txt” >> .gitignore
+   52  cat .gitignore
+   53  git status
+   54  notepad .gitignore
+   55  git status
+   56  notepad .gitignore
+   57  git status
+   58  git add
+   59  git commit -m"Фіксація всіх змін"
+   60  git add .gitignore
+   61  notepad .gitignore
+   62  notepad .gitignore
+   63  git status
+   64  git add
+   65  git add .gitignore
+   66  git commit -a"Fix all changes"
+   67  git commit -m"Фіксація змін"
+   68  touch main_test.txt
+   69  git add
+   70  git add main_test.txt
+   71  git commit -m"Створено файл main_text.txt"
+   72  git checkout -b develop
+   73  git branch
+   74  touch develop_test.txt
+   75  git add develop_test.txt
+   76  git commit -m"Створено файл develop_test.txt"
+   77  nano develop_test.txt
+   78  git status
+   79  notepad develop_test.txt
+   80  git add develop_test.txt
+   81  git commit -m"Внесені зміни у файл develop_test.txt"
+   82  git checkout main
+   83  git merge develop
+   84  git log
+   85  git push
+   86  git add
+   87  git commit -m"Всі зміни"
+   88  clear
+   89   ^[[200~history > command_list.csv~
+   90  clear
+   91  history > command_list.csv
+   92  history > command_list.csv
+   93  clear
+   94  history > command_list.csv
+   95  git add
+   96  git commit -m"Всі зміни"
+   97  git add command_list.csv
+   98  git commit -m"Всі зміни"
+   99  git push
+  100  [200~history -c && rm ~/.bash_history~clear
+  101  cd Git
+  102  git config --global user.name "Halyna Lushpynska"
+  103  git config --global user.email lushpynskagalyna@gmail.com
+  104  git clone https://github.com/lushpynskagalyna-bot/HW_10.git
+  105  cd HW_10
+  106  touch text_ignore.txt
+  107  cd .gitignore
+  108  nano .gitignore
+  109  notepad .gitignore
+  110  git status
+  111  git add .gitignore
+  112  git status
+  113  git commit -m"Внесено зміни у файл .gitignore"
+  114  touch main_test.txt
+  115  git add main_test.txt
+  116  git status
+  117  git commit -m"Створено порожній файл main_test.txt"
+  118  git checkout -b develop
+  119  git branch
+  120  touch develop_test.txt
+  121  git add develop_test.txt
+  122  git commit -m"Створено порожній файл develop_test.txt в гілці develop"
+  123  notepad develop_test.txt
+  124  git status
+  125  git add develop_test.txt
+  126  git commit -m"Внесено зміни у файл develop_test.txt"
+  127  checkout
+  128  git branch main
+  129  git checkout main
+  130  git merge develop
+  131  git log
+  132  git push
+  133  history > command_list.csv
+  134  history > command_list.csv
